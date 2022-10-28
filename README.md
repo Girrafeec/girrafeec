@@ -17,4 +17,14 @@ Here are some ideas to get you started:
 
 ### Coding Stats
 <!--START_SECTION:waka-->
+
+```text
+Java             12 hrs 49 mins  █████████████████▒░░░░░░░   69.59 %
+XML              3 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
+HTML             1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+JavaScript       35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+CSS              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+```
+
 <!--END_SECTION:waka-->
