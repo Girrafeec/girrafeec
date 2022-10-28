@@ -19,12 +19,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             12 hrs 49 mins  █████████████████▒░░░░░░░   69.59 %
-XML              3 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
-HTML             1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-JavaScript       35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-CSS              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+From: 01 September 2022 - To: 27 October 2022
+
+Total Time: 40 hrs 36 mins
+
+Java                   22 hrs 16 mins  █████████████▓░░░░░░░░░░░   54.85 %
+XML                    7 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
+Kotlin                 6 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
+HTML                   1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+JavaScript             52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+GitIgnore file         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
