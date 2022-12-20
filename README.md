@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 September 2022 - To: 18 December 2022
+From: 01 September 2022 - To: 19 December 2022
 
-Total Time: 122 hrs 33 mins
+Total Time: 125 hrs 16 mins
 
-Java                   46 hrs 26 mins  █████████▒░░░░░░░░░░░░░░░   37.90 %
-Kotlin                 31 hrs 42 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-JavaScript             15 hrs 19 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-XML                    12 hrs 37 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-HTML                   8 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-CSS                    4 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Java                   49 hrs 8 mins   █████████▓░░░░░░░░░░░░░░░   39.23 %
+Kotlin                 31 hrs 42 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
+JavaScript             15 hrs 19 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+XML                    12 hrs 37 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+HTML                   8 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+CSS                    4 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
