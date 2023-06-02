@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Coding Stats
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 01 September 2022 - To: 01 June 2023
 
 Total Time: 449 hrs 16 mins
