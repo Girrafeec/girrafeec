@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2022 - To: 26 April 2025
+From: 01 September 2022 - To: 27 April 2025
 
-Total Time: 595 hrs
+Total Time: 595 hrs 1 min
 
 Kotlin                 364 hrs 24 mins ███████████████▒░░░░░░░░░   61.24 %
 Java                   110 hrs 47 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
