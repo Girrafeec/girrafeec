@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2022 - To: 21 May 2025
+From: 01 September 2022 - To: 22 May 2025
 
-Total Time: 602 hrs 27 mins
+Total Time: 603 hrs 16 mins
 
-Kotlin                 369 hrs 35 mins ███████████████▒░░░░░░░░░   61.35 %
-Java                   110 hrs 56 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
-XML                    65 hrs 28 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+Kotlin                 369 hrs 43 mins ███████████████▒░░░░░░░░░   61.29 %
+Java                   111 hrs 6 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
+XML                    65 hrs 29 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
 JavaScript             16 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 Markdown               10 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
