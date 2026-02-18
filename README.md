@@ -23,11 +23,11 @@ From: 01 September 2022 - To: 17 February 2026
 
 Total Time: 614 hrs 50 mins
 
-Kotlin                 375 hrs 14 mins ███████████████▒░░░░░░░░░   61.03 %
-Java                   112 hrs 37 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
-XML                    65 hrs 55 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-JavaScript             17 hrs 18 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Markdown               10 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Kotlin                 375 hrs 14 mins       ███████████████▒░░░░░░░░░   61.03 %
+Java                   112 hrs 37 mins       ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
+XML                    65 hrs 55 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+JavaScript             17 hrs 18 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Markdown               10 hrs 4 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
